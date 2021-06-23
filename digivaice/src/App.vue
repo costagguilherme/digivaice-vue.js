@@ -34,8 +34,7 @@
         digimonsData: [],
         digimonsInfo: [],
         filteredDigimons: [],
-        numberDigimon:[], // Array que irá capturar index do digimon na função searchDigimon, 
-                          // a fim de poder posteriormente aplicar um filtro de pesquisa
+        numberDigimon:[], // Array que irá capturar index do digimon na função searchDigimon
         Name:[],
         search: ""
       }
